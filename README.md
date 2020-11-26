@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 🌈
 
-<!--
-**alex-ruddell/alex-ruddell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alex Ruddell. I am a Mechatronics Engineer and keen Software Developer -- Welome to my personal GitHub!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal website and the Engineering Revue website! Check it out at... http://engrevue.co.nz
+- 🌱 I’m currently learning the ins and outs of development at MYOB! Check out my account... http://github.com/alex-ruddell-myob
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a big nail polish fan!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+Feel free to have a browse through this account to check out previous projects I've worked on. Most of these are university projects, but now that I've graduated, I hope to populate it with a lof of new personal projects :)
+
+##### Auckland Engineering Revue Website
+https://github.com/UoAEngineeringRevue/engrevue-website
+
+##### Personal Website
+Very early days, I don't even have a domain or any of that stuff yet. Watch this space!
