@@ -8,7 +8,7 @@ My name is Alex Ruddell. I am a Mechatronics Engineer and keen Software Develope
 - ⚡ Fun fact: My degree is in Mechatronics Engineering but I am braving the software world!
 
 #### Projects
-Feel free to have a browse through this account to check out previous projects I've worked on. Most of these are university projects, but now that I've graduated, I hope to populate it with a lof of new personal projects :)
+Feel free to have a browse through this account to check out previous projects I've worked on. Most of these are university projects, but now that I've graduated, I hope to populate it with a lot of new personal projects :)
 
 #### Auckland Engineering Revue Website
 https://github.com/UoAEngineeringRevue/engrevue-website
