@@ -11,8 +11,7 @@ My name is Alex Ruddell. I am a Mechatronics Engineer and keen Software Develope
 Feel free to have a browse through this account to check out previous projects I've worked on. Most of these are university projects, but now that I've graduated, I hope to populate it with a lot of new personal projects :)
 
 #### Auckland Engineering Revue Website
-Visit the website here: https://engrevue.co.nz.
-
+Visit the website here: https://engrevue.co.nz
 Check out the repository here >>> https://github.com/UoAEngineeringRevue/engrevue-website
 
 #### Game Of Life
