@@ -11,11 +11,13 @@ My name is Alex Ruddell. I am a Mechatronics Engineer and keen Software Develope
 Feel free to have a browse through this account to check out previous projects I've worked on. Most of these are university projects, but now that I've graduated, I hope to populate it with a lot of new personal projects :)
 
 #### Auckland Engineering Revue Website
-Visit the website here: https://engrevue.co.nz
+Visit the website here: https://engrevue.co.nz.
+
 Check out the repository here >>> https://github.com/UoAEngineeringRevue/engrevue-website
 
 #### Game Of Life
 Conway's Game Of Life is a zero-player cell automation game. Cells evolve on a board based on a defined set of rules and an initial user input. 
+
 Check it out here >>> https://github.com/alex-ruddell/game-of-life
 
 #### Personal Website
