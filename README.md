@@ -3,7 +3,7 @@
 My name is Alex Ruddell. I am a Mechatronics Engineer and keen Software Developer -- Welome to my personal GitHub!
 
 - 🔭 I’m currently working on my personal website and the Engineering Revue website! Check it out at... http://engrevue.co.nz
-- 🌱 I’m currently waiting to begin working at Olympic Software NZ!
+- 🌱 I’m currently working at Olympic Software NZ!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My degree is in Mechatronics Engineering but I am braving the software world!
 
