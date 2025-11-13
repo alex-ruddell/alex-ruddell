@@ -1,4 +1,4 @@
-### Hi there 🌈
+### Hi there
 
 My name is Alex Ruddell. I am a Full-Stack Software Engineer with roots in Robotics and Mechatronics Engineering -- Welome to my personal GitHub!
 
